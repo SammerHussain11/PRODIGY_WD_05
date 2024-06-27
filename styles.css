@@ -1,0 +1,16 @@
+body {
+  background: #f8f9fa;
+}
+
+.card {
+  margin-top: 50px;
+}
+
+#weatherResult {
+  display: none;
+}
+
+.weather-icon {
+  width: 100px;
+  height: 100px;
+}
